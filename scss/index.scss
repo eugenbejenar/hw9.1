@@ -1,0 +1,23 @@
+@import 'reset';
+@import 'mixins';
+@import 'grid';
+.container {
+    margin: 0 auto;
+    max-width: 1000px;
+}
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.grey {
+    background-color: grey;
+}
